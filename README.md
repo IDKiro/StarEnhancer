@@ -1,8 +1,8 @@
-# StarEnhancer
+# StarEnhancer: Learning Real-Time and Style-Aware Image Enhancement
 
-**[StarEnhancer: Learning Real-Time and Style-Aware Image Enhancement](https://arxiv.org/abs/2107.12898) (ICCV 2021 Oral)**
+[**ICCV Paper**](https://openaccess.thecvf.com/content/ICCV2021/html/Song_StarEnhancer_Learning_Real-Time_and_Style-Aware_Image_Enhancement_ICCV_2021_paper.html) | [**Arxiv Paper**](https://arxiv.org/abs/2107.12898) | [**Datasets & Pretrained models**](https://drive.google.com/drive/folders/1RZpzNuyCcZVBALW3xZMvF-UhOD6xjFz3?usp=sharing)
 
-**Abstract:** 
+> **Abstract:** 
 Image enhancement is a subjective process whose targets vary with user preferences.
 In this paper, we propose a deep learning-based image enhancement method covering multiple tonal styles using only a single model dubbed StarEnhancer.
 It can transform an image from one tonal style to another, even if that style is unseen.
@@ -102,7 +102,7 @@ lpips_val = 0
 
 ## Notes
 
-Due to agreements, we are unable to release part of the source code. 
+Due to licenses, we are unable to release part of the source code. 
 This repository provides a pure python implementation for research use.
 There are some differences between the repository and the paper as follows:
 
@@ -111,3 +111,16 @@ There are some differences between the repository and the paper as follows:
 3. The repository removes some tricks used in training lightweight models.
 
 Overall, this repository can achieve higher performance, but will be slightly slower.
+
+## Citation
+If you find this work useful for your research, please cite our paper:
+
+```bibtex
+@inproceedings{song2021starenhancer,
+  title={StarEnhancer: Learning Real-Time and Style-Aware Image Enhancement},
+  author={Song, Yuda and Qian, Hui and Du, Xin},
+  booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision},
+  pages={4126--4135},
+  year={2021}
+}
+```
