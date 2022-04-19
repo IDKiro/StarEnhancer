@@ -1,6 +1,9 @@
 # StarEnhancer: Learning Real-Time and Style-Aware Image Enhancement
 
-[**ICCV Paper**](https://openaccess.thecvf.com/content/ICCV2021/html/Song_StarEnhancer_Learning_Real-Time_and_Style-Aware_Image_Enhancement_ICCV_2021_paper.html) | [**Arxiv Paper**](https://arxiv.org/abs/2107.12898) | [**Datasets & Pretrained Models**](https://drive.google.com/drive/folders/1RZpzNuyCcZVBALW3xZMvF-UhOD6xjFz3?usp=sharing)
+[![paper](https://img.shields.io/badge/ICCV-Paper-red.svg)](https://openaccess.thecvf.com/content/ICCV2021/html/Song_StarEnhancer_Learning_Real-Time_and_Style-Aware_Image_Enhancement_ICCV_2021_paper.html) 
+[![paper](https://img.shields.io/badge/arXiv-Paper-orange.svg)](https://arxiv.org/abs/2107.12898) 
+[![GoogleDrive](https://img.shields.io/badge/GoogleDrive-Data-green)](https://drive.google.com/drive/folders/1RZpzNuyCcZVBALW3xZMvF-UhOD6xjFz3?usp=sharing) 
+[![BaiduPan](https://img.shields.io/badge/BaiduPan-Data-blue)](https://pan.baidu.com/s/1cNGeilIuE6Tmi8mPg6VS5A?pwd=jvyf)
 
 > **Abstract:** 
 Image enhancement is a subjective process whose targets vary with user preferences.
@@ -51,7 +54,7 @@ The final file path should be the same as the following:
 
 #### Download
 
-Data and pretrained models are available on [GoogleDrive](https://drive.google.com/drive/folders/1RZpzNuyCcZVBALW3xZMvF-UhOD6xjFz3?usp=sharing).
+Data and pretrained models are available on [GoogleDrive](https://drive.google.com/drive/folders/1RZpzNuyCcZVBALW3xZMvF-UhOD6xjFz3?usp=sharing) or [BaiduPan](https://pan.baidu.com/s/1cNGeilIuE6Tmi8mPg6VS5A?pwd=jvyf) (jvyf).
 
 #### Generate
 
